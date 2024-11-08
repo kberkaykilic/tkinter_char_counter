@@ -11,7 +11,7 @@ def result_count():
 
 
 win = tk.Tk()
-win.title("Project 1")
+win.title("Char Counter")
 win.iconbitmap("python.ico")  # If code is not running, try to create your own path.
 
 label1 = tk.Label(win, text="Enter a message:")
